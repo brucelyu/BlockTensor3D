@@ -1,4 +1,5 @@
-# BlockTensor3D
+# Block-tensor transformation in 3D using the HOTRG
+
 The scripts here are almost the same as [another repository](https://github.com/brucelyu/efrg3D) where entanglement filtering is incorporated.
 Please see the description there for more details.
 The codes here can reproduce the results shown in the Figure 2 of this arXiv preprint: [Essential difference between 2D and 3D from the perspective of real-space renormalization group](https://arxiv.org/abs/2311.05891).
